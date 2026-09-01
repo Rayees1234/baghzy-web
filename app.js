@@ -5,7 +5,7 @@
 
 const APP_VERSION = "1.0.0";
 const APK_FILENAME = "baghzy.apk";
-const APK_DOWNLOAD_PATH = "/downloads/baghzy.apk";
+const APK_DOWNLOAD_PATH = "https://github.com/Rayees1234/baghzy-web/releases/download/v1.0.0/baghzy.apk";
 const APK_SIZE_LABEL = "48 MB";
 const RELEASE_DATE = "August 2026";
 
